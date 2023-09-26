@@ -58,10 +58,37 @@ body {
     width: 100%;
   }
   .logo-container {
-    position: absolute;
     top: 50%;
+    position: absolute;
     .logo-title {
       margin-left: 20px;
+    }
+  }
+  .hero-title {
+    position: absolute;
+    top: 70%;
+    text-align: center;
+    color: $white-color;
+    font-weight: $font-weight-bold;
+    width: 100%;
+    h2 {
+      font-size: $font-size-large;
+      letter-spacing: 9.6px;
+      background-color: $blue-color;
+      width: 100%;
+      padding: 10px 0;
+    }
+    p {
+      font-size: $font-size-medium;
+    }
+
+    .scroll-next-page {
+      background: transparent;
+      border: none;
+      color: $white-color;
+      font-family: $nano;
+      letter-spacing: 4.8px;
+      cursor: pointer;
     }
   }
 }
