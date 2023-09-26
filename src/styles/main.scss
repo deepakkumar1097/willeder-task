@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;300;400;500;600;700;800;900&family=Revalia&display=swap");
+@import "_variables.scss";
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: $revalia;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+  .logo-title {
+    word-wrap: break-word;
+  }
+}
+
+.navbar-container {
+  position: absolute;
+  background-color: $white-color;
+  opacity: 0.9;
+  display: flex;
+  width: 100%;
+  height: 64px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  z-index: 99;
+  .logo-container {
+    margin-left: 80px;
+    .logo-title {
+      margin-left: 5px;
+    }
+  }
+  .nav-links {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+    font-family: $nano;
+    font-size: $font-size-small;
+    font-weight: $font-weight-bold;
+    margin: auto;
+    li > a {
+      letter-spacing: 4.8px;
+      line-height: 25.6px;
+      font-family: $nano;
+      color: $black-color;
+      text-decoration: none;
+    }
+  }
+}
+.hero-container {
+  position: relative;
+  z-index: -1;
+  display: flex;
+  justify-content: center;
+  img {
+    width: 100%;
+  }
+  .logo-container {
+    position: absolute;
+    top: 50%;
+    .logo-title {
+      margin-left: 20px;
+    }
+  }
+}
