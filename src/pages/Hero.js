@@ -18,7 +18,7 @@ export default function Hero() {
   return (
     <div className="hero-container">
       <img src={images[currentIndex]} alt="hero-bg" />
-      <div class="gradient-overlay"></div>
+      <div className="gradient-overlay"></div>
       <Logo
         color={"white"}
         fontSize={"78px"}

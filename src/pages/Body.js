@@ -13,7 +13,7 @@ export default function Body() {
       <div className="body-images-wrap">
         <div className="body-image">
           <img src={ImageWrap1} alt="body-image" />
-          <div class="gradient-overlay"></div>
+          <div className="gradient-overlay"></div>
           <div className="upper-title">
             <span>01</span>
             <h4>Lorem ipsum dolor sit</h4>
@@ -22,7 +22,7 @@ export default function Body() {
         </div>
         <div className="body-image">
           <img src={ImageWrap2} alt="body-image" />
-          <div class="gradient-overlay"></div>
+          <div className="gradient-overlay"></div>
           <div className="upper-title">
             <span>02</span>
             <h4>Lorem ipsum dolor sit</h4>
@@ -31,7 +31,7 @@ export default function Body() {
         </div>
         <div className="body-image">
           <img src={ImageWrap3} alt="body-image" />
-          <div class="gradient-overlay"></div>
+          <div className="gradient-overlay"></div>
           <div className="upper-title">
             <span>03</span>
             <h4>Lorem ipsum dolor sit</h4>

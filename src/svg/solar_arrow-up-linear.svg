@@ -1,0 +1,11 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="solar:arrow-up-linear" clip-path="url(#clip0_1636_171)">
+<path id="Ellipse 1" d="M39.25 20C39.25 30.6315 30.6315 39.25 20 39.25C9.36852 39.25 0.75 30.6315 0.75 20C0.75 9.36852 9.36852 0.75 20 0.75C30.6315 0.75 39.25 9.36852 39.25 20Z" stroke="#6A45FF" stroke-width="1.5"/>
+<path id="Vector" d="M12.3068 20.0005L27.6914 20.0005M27.6914 20.0005L21.9222 26.1544M27.6914 20.0005L21.9222 13.8467" stroke="#6A45FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1636_171">
+<rect width="40" height="40" fill="white" transform="translate(40) rotate(90)"/>
+</clipPath>
+</defs>
+</svg>
