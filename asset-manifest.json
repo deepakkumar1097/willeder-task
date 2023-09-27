@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/willeder-task/static/css/main.97389c38.css",
+    "main.js": "/willeder-task/static/js/main.c5413ae9.js",
+    "static/media/james-harrison-vpOeXr5wmR4-unsplash.png": "/willeder-task/static/media/james-harrison-vpOeXr5wmR4-unsplash.0ce4470faeca8ab0095b.png",
+    "static/media/emile-perron-xrVDYZRGdw4-unsplash.png": "/willeder-task/static/media/emile-perron-xrVDYZRGdw4-unsplash.37523d85fb14e906b1fa.png",
+    "static/media/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.png": "/willeder-task/static/media/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.1c782455d77025753884.png",
+    "static/media/dillon-shook-mY3_bvR74fI-unsplash.jpg": "/willeder-task/static/media/dillon-shook-mY3_bvR74fI-unsplash.2c529398e8a85d314199.jpg",
+    "static/media/Rectangle.png": "/willeder-task/static/media/Rectangle.62e925291771f1905723.png",
+    "static/media/Subtract.svg": "/willeder-task/static/media/Subtract.c7f153dc61891c4f2b5b5c5a96411b7d.svg",
+    "static/media/icon.svg": "/willeder-task/static/media/icon.b547e63f08f788120b1e50116c8a94d9.svg",
+    "static/media/Vector (1).svg": "/willeder-task/static/media/Vector (1).a4f92b9b542c974a559f76ee7818f045.svg",
+    "static/media/Subtract (1).svg": "/willeder-task/static/media/Subtract (1).fcabedb117890415b3af65cadc46d117.svg",
+    "static/media/solar_arrow-up-linear.svg": "/willeder-task/static/media/solar_arrow-up-linear.ba7027477a90257d31d86fe567f56d1d.svg",
+    "index.html": "/willeder-task/index.html",
+    "static/media/Vector.svg": "/willeder-task/static/media/Vector.d6bc5dc9f1a7a6605b3e819482c4acea.svg",
+    "main.97389c38.css.map": "/willeder-task/static/css/main.97389c38.css.map",
+    "main.c5413ae9.js.map": "/willeder-task/static/js/main.c5413ae9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97389c38.css",
+    "static/js/main.c5413ae9.js"
+  ]
+}
