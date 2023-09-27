@@ -22,6 +22,11 @@ export default function Navbar() {
           <a href="#">Page 2</a>
         </li>
       </ul>
+      <div className="toogle-container">
+        <span className="line line1"></span>
+        <span className="line line2"></span>
+        <span className="line line3"></span>
+      </div>
     </div>
   );
 }

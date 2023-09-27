@@ -1,7 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;300;400;500;600;700;800;900&family=Revalia&display=swap");
+
+// COLORS
 $blue-color: #6a45ff;
 $white-color: white;
 $black-color: black;
-
+// FONTS
 $revalia: "Revalia", cursive;
 $nano: "Noto Sans", sans-serif;
 $font-size-small: 16px;
@@ -11,8 +14,8 @@ $font-size-xlarge: 40px;
 $font-size-xxlarge: 78px;
 $font-weight-normal: 400;
 $font-weight-bold: 600;
-
-$small-screen: 576px;
+// MEDIA QUERY
+$small-screen: 403px;
 $medium-screen: 768px;
 $large-screen: 992px;
 $extra-large-screen: 1200px;
